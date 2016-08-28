@@ -1,0 +1,56 @@
+body {
+    background-color: #f1f1f1;
+}
+
+.mainTable{
+	overflow: auto;
+	float: left;
+	width: 65%;
+	height: 576px;
+    background-color: #f1f1f1;
+   
+}
+
+.form-control{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+h1, h3, h5{
+   text-align: center;
+}
+
+.buttonRef {
+	width: 20%;
+    background-color: #228B22;
+    color: white;
+    padding: 14px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 4px;
+    margin: 8px 0;
+}
+
+.form-group{
+    width: 30%;
+    float: right;
+    padding: 10px;
+    background-color: #f1f1f1;
+}
+
+.inputFields{
+    width: 50%;
+    margin: auto;
+    background-color: #f1f1f1;
+    padding: 10px;
+}
+
+.panel-info {
+	margin-left: 100px; 
+	margin-right: 100px;
+}
